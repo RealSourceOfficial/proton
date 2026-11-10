@@ -9,14 +9,14 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arlojay-studios/proton.git"
+    "url": "git+https://github.com/RealSourceOfficial/proton.git"
   },
   "author": "Arlojay Studios",
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/arlojay-studios/proton/issues"
+    "url": "https://github.com/RealSourceOfficial/proton/issues"
   },
-  "homepage": "https://github.com/arlojay-studios/proton#readme",
+  "homepage": "https://github.com/RealSourceOfficial/proton#readme",
   "dependencies": {
     "sqlite3": "^5.1.7",
     "uuid": "^9.0.1"
