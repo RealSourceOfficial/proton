@@ -1,8 +1,5 @@
 {
-  "name": "@arlojay-studios/proton-atomic",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
+  "name": "@sourceofficial/proton-atomic",
   "version": "0.0.8",
   "description": "API Modules for Atomic",
   "main": "core.ts",
